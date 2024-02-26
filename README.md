@@ -1,1 +1,1 @@
-# JavaTemplate
+# JavaMethod
